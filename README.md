@@ -1,2 +1,2 @@
 # otustarejuchy
-code for otu website
+Code and assets for the https://otu.pl/leczenie-uzaleznien website concerning "terapia uzależnień"
